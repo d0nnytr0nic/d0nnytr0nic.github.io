@@ -1,0 +1,37 @@
+body {background-color:lightblue;}
+
+img{
+    
+    display: block;
+        margin: 0 auto;
+}
+
+
+img {
+    
+    border-style: double;
+    border-width: 16px;
+}
+
+#p2{
+    
+    text-align: center;
+    
+}
+
+h1 {
+    
+    text-align: center;
+    
+}
+nav {
+    
+    display: block;
+    border: 10px;
+    border-style: groove; 
+    border-color: brown;
+}
+
+body{
+    background: url("background.jpg") ;
+}
